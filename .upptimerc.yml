@@ -4,9 +4,9 @@ repo: AOS-UPPTIME-TEST # The name of this repository
 
 sites:
   - name: AOS
-    url: https://www.webaos.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: http://www.webaos.com
+  - name: AOS(TEST)
+    url: http://211.242.184.50/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
