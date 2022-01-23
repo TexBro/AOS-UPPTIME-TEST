@@ -6,7 +6,7 @@
     "slug": "aos",
     "status": "down",
     "uptime": "0.03%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-23": 552,
+      "2022-01-23": 578,
       "2022-01-22": 870
     }
   },
@@ -27,7 +27,7 @@
     "slug": "aos-test",
     "status": "down",
     "uptime": "0.03%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-23": 552,
+      "2022-01-23": 578,
       "2022-01-22": 869
     }
   },
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 332,
+    "timeDay": 329,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1664,
-    "timeDay": 1664,
-    "timeWeek": 1664,
-    "timeMonth": 1664,
-    "timeYear": 1664,
+    "time": 1547,
+    "timeDay": 1547,
+    "timeWeek": 1547,
+    "timeMonth": 1547,
+    "timeYear": 1547,
     "dailyMinutesDown": {}
   }
 ]
