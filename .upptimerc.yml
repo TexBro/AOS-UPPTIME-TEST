@@ -5,8 +5,10 @@ repo: AOS-UPPTIME-TEST # The name of this repository
 sites:
   - name: AOS
     url: https://www.webaos.com
+    method: GET
   - name: AOS(TEST)
     url: http://211.242.184.50
+    method: POST
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test 
