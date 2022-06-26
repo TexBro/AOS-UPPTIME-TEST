@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 100,
+      "2022-06-26": 104,
+      "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -190,7 +191,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-25": 100,
+      "2022-06-26": 104,
+      "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -354,15 +356,15 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 291,
-    "timeWeek": 246,
-    "timeMonth": 278,
-    "timeYear": 318,
+    "time": 317,
+    "timeDay": 87,
+    "timeWeek": 244,
+    "timeMonth": 274,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2022-06-24": 21
     }
@@ -378,11 +380,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1830,
-    "timeDay": 3420,
-    "timeWeek": 1929,
-    "timeMonth": 1847,
-    "timeYear": 1830,
+    "time": 1828,
+    "timeDay": 1624,
+    "timeWeek": 1924,
+    "timeMonth": 1839,
+    "timeYear": 1828,
     "dailyMinutesDown": {}
   }
 ]
